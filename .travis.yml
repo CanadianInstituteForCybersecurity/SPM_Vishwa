@@ -2,7 +2,7 @@ os: linux
 language: python
 sudo: false
 python:
-  - "3.11.8"
+  - "3.11.10"
 
 script:
   - python cesarCipher.py
